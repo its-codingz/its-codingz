@@ -9,8 +9,11 @@ Having trouble? Need help? Connect with me!
 Email: itscodingz@gmail.com
 
 #️⃣ Social Media #️⃣
-📸 Instagram : https://www.instagram.com/its__codingz/
+
+📸 Instagram : https://www.instagram.com/its_codingz/
+
 📝 Telegram : https://t.me/its_codingz
+
 🔗 Other : https://linktr.ee/its_codingz
 
 
