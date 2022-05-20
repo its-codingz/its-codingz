@@ -31,5 +31,5 @@ If you have any feedback, please reach out to us at itscodingz@gmail.com
 
 ## Support
 
-For support, email itscodingz@gmail.com or join our Telegram channel - [@its_codingz](https://www.github.com/its-codingz).
+For support, email itscodingz@gmail.com or join our Telegram channel - [@its_codingz](https://t.me/its_codingz).
 
