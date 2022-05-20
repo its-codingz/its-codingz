@@ -1,7 +1,6 @@
 
 ![Logo](https://i.ibb.co/StdZ4GT/itscodingz.jpg)
 
-
 ## Authors
 
 - [@its_codingz](https://www.github.com/its-codingz)
@@ -32,5 +31,5 @@ If you have any feedback, please reach out to us at itscodingz@gmail.com
 
 ## Support
 
-For support, email itscodingz@gmail.com or join our Telegram channel.
+For support, email itscodingz@gmail.com or join our Telegram channel - [@its_codingz](https://www.github.com/its-codingz).
 
