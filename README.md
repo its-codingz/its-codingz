@@ -19,7 +19,7 @@
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKDPdfslI7R2yqFz-dACyeg)
 
 
-## Demo of Website
+## Demo of our Website
 
 https://itscodingz.netlify.app/
 
