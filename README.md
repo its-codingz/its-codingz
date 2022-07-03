@@ -15,10 +15,11 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itscodingz.netlify.app/)
 [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_codingz)
-[![youtube](https://img.shields.io/badge/telegram-3A67A2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/its_codingz)
+[![Telegram](https://img.shields.io/badge/telegram-3A67A2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/its_codingz)
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKDPdfslI7R2yqFz-dACyeg)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)]()
 [![paypal](https://img.shields.io/badge/paypal-1DA1F2?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itscodingz?country.x=IN&locale.x=en_GB)
-[![other](https://img.shields.io/badge/other-1DA1F2?style=for-the-badge&logo=&logoColor=white)](https://linktr.ee/its_codingz)
+
 
 
 ## Demo of our Website
