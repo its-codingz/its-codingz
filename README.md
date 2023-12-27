@@ -30,10 +30,6 @@
 
 https://itscodingz.netlify.app/
 
-## Demo of Our Portfolio
-
-https://mananveer-portfolio.vercel.app/
-
 ## 🛠 Skills
 Javascript, HTML, CSS , Python , C , React Native , MySql.
 
