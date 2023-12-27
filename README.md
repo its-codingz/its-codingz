@@ -17,7 +17,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itscodingz.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itscodingz.carrd.co)
 [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_codingz)
 [![Telegram](https://img.shields.io/badge/telegram-3A67A2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/its_codingz)
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itscodingz)
